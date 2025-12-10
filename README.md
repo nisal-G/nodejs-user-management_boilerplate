@@ -55,7 +55,7 @@ Backend - User Management/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nodejs-user-management-boilerplate.git
+git clone https://github.com/nisal-G/nodejs-user-management_boilerplate.git
 cd nodejs-user-management-boilerplate
 ```
 
@@ -87,8 +87,6 @@ Update the `.env` file with your credentials:
 ```env
 MONGO_URL=mongodb+srv://username:password@cluster0.xxxxxx.mongodb.net/?appName=Cluster0
 JWT_SECRET=your_secure_jwt_secret_key_here
-PORT=3000
-NODE_ENV=development
 ```
 
 **Generate a secure JWT secret:**
