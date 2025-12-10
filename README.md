@@ -76,7 +76,6 @@ Add your configuration:
 ```env
 MONGO_URL=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
-PORT=3000
 ```
 
 **Generate a secure JWT secret:**
